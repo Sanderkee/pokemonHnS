@@ -55,4 +55,7 @@
 #endif
 #endif
 
+#define DEBUG_MENU TRUE
+#define FLAG_SYS_DEBUG_MODE TRUE
+
 #endif // GUARD_CONFIG_H

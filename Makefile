@@ -1,5 +1,6 @@
 TOOLCHAIN := $(DEVKITARM)
 COMPARE ?= 0
+DEBUG ?= 1
 
 ifeq (compare,$(MAKECMDGOALS))
   COMPARE := 1
